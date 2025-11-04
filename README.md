@@ -1,13 +1,4 @@
 # Automated-EC2-Lifecycle-and-Snapshot-Management-using-AWS-Lambda-and-Boto3
-Automated EC2 Lifecycle and Snapshot Management using AWS Lambda and Boto3 in AWS 
-Great! Here's a professional project documentation draft for your AWS automation project using Python and Boto3 with Lambda, IAM roles, and cron-based scheduling.
-
----
-
-## 📄 **Project Title:**
-
-**Automated EC2 Lifecycle and Snapshot Management using AWS Lambda and Boto3**
-
 ---
 
 ## 🧾 **Overview:**
